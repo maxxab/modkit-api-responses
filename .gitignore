@@ -13,3 +13,6 @@ AGENTS.md
 .development-standards/manifest.json
 docs/handoffs/
 .mypy_cache/
+
+# Package CI already validates standards on pushes and pull requests.
+/.github/workflows/development-standards.yml
