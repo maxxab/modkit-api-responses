@@ -4,8 +4,17 @@
 
 ### Features
 
-- add standalone response envelopes and conditional reads (`45648bc6f75b`)
+- implement generic API responses ([097ca30d0828](https://github.com/maxxab/modkit-api-responses/commit/097ca30d0828f4c39dbb3db47c82a8f8908b1704))
+
+### Build System
+
+- add portable development standards tooling ([f1b2fe71e069](https://github.com/maxxab/modkit-api-responses/commit/f1b2fe71e069357e5aa18e7944b12698f2807349))
 
 ### CI/CD
 
-- validate event history and expand supported Python matrix (`b3f3b97a1103`)
+- verify package across supported runtimes ([96f9023b8825](https://github.com/maxxab/modkit-api-responses/commit/96f9023b882554f57a42640e76e378850c34670b))
+
+### Maintenance
+
+- ignore local build and environment files ([9f5b5cc5ef4c](https://github.com/maxxab/modkit-api-responses/commit/9f5b5cc5ef4c207cf56f41e4333dec6ce8291121))
+- keep duplicate generated workflow local ([27c0c14c3a9f](https://github.com/maxxab/modkit-api-responses/commit/27c0c14c3a9faba990c4805cb96cd5f4edbc1fd9))
