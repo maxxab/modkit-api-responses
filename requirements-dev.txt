@@ -1,0 +1,9 @@
+pytest==9.2.0
+build==1.6.1
+twine==7.0.0
+ruff==0.17.3
+fastapi==0.162.0
+pydantic==2.14.2
+httpx==0.28.1
+
+mypy==2.4.1

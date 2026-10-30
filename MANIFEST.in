@@ -1,0 +1,11 @@
+include README.md LICENSE pyproject.toml requirements-dev.txt
+recursive-include src *.py py.typed
+recursive-include tests *.py
+recursive-include examples *.py
+recursive-include scripts *.py
+include docs/migration.md
+prune docs/handoffs
+prune .development-standards
+prune .cursor
+prune .github
+exclude AGENTS.md CHANGELOG.md
